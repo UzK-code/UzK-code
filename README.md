@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I attend Northside College Preparatory High School and I am a rising senior. 
+Hello! My name is Umaizah. 
+I attend Northside College Preparatory High School and I am a rising senior. My intended major is Mechanical engineering, and I really like all things STEM. 
+Right now, Im especially interested in Mechatronics Engineering because it blends mechanics, electronics, and software in a way that feels like the perfect intersection of everything I enjoy. Im still exploring my options within technology, but I know I want a future where I can build, design, and innovate.
+<img src = "https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
