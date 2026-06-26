@@ -18,9 +18,11 @@ Hello! My name is Umaizah.
 I attend [Northside College Preparatory High School (NCP)](https://northsideprep.org/) and I am a rising senior. My intended major is Mechanical engineering, and I really like all things STEM. 
 Right now, Im especially interested in Mechatronics Engineering because it blends mechanics, electronics, and software in a way that feels like the perfect intersection of everything I enjoy. Im still exploring my options within technology, but I know I want a future where I can build, design, and innovate.
 
-EDIT FROM HERE....COPIED FROM HARSHITA
-- 🏆 Hackathon Coach at [Major League Hacking (MLH)](https://mlh.io/), mentoring organizers and hackers run successful, inclusive hackathons, add list off accomplishments'
+### My Accomplishments! 🏆
+-  Earned the [College Board National Recognition Program Award 2025](https://bigfuture.collegeboard.org/communities-events/national-recognition-programs)
 - Northside College Prep Computer Science Honor Society
+-  Earned the [College Board National Recognition Program Award 2026](https://bigfuture.collegeboard.org/communities-events/national-recognition-programs)
+
 
 
 ### Languages or tools I am familiar with: 
