@@ -19,9 +19,9 @@ I attend [Northside College Preparatory High School (NCP)](https://northsideprep
 Right now, Im especially interested in Mechatronics Engineering because it blends mechanics, electronics, and software in a way that feels like the perfect intersection of everything I enjoy. Im still exploring my options within technology, but I know I want a future where I can build, design, and innovate.
 
 ### My Accomplishments! 🏆
--  Earned the [College Board National Recognition Program Award 2025](https://bigfuture.collegeboard.org/communities-events/national-recognition-programs)
+- Earned the [College Board National Recognition Program Award 2025](https://bigfuture.collegeboard.org/communities-events/national-recognition-programs)
 - Northside College Prep Computer Science Honor Society
--  Earned the [College Board National Recognition Program Award 2026](https://bigfuture.collegeboard.org/communities-events/national-recognition-programs)
+- Earned the [College Board National Recognition Program Award 2026](https://bigfuture.collegeboard.org/communities-events/national-recognition-programs)
 
 
 
@@ -33,7 +33,7 @@ add some images of tools you know
 
 ### Have a look at my work: 👀
 edit the work you have done, add ORCid profile and credly
-<a href= "https://github.com/harshitajain165"><img src = "https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"> </a>
+<a href= "https://github.com/UzK-code"><img src = "https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"> </a>
 
 
 ### Connect with me! 📩
